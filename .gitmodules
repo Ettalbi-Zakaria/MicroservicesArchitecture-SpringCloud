@@ -4,3 +4,6 @@
 [submodule "Customer-Service"]
 	path = Customer-Service
 	url = https://github.com/Ettalbi-Zakaria/Customer-Service
+[submodule "Inventory-Service"]
+	path = Inventory-Service
+	url = https://github.com/Ettalbi-Zakaria/Inventory-Service
