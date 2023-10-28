@@ -1,0 +1,3 @@
+[submodule "Eureka-Server"]
+	path = Eureka-Server
+	url = https://github.com/Ettalbi-Zakaria/Eureka-Server
